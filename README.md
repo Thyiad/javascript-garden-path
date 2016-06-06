@@ -1,2 +1,2 @@
 # javascript-garden-path
-JavaScript神秘花园
+聊聊JavaScript
