@@ -1,2 +1,12 @@
 # javascript-garden-path
-聊聊JavaScript
+**JavaScript Garden Path** 是一份从整体的角度剖析JavaScript的文档，不钻牛角尖，不讨论疑难杂症，力求简洁明了。
+
+适合不甚知之似，有是而非之感的童鞋。如果你是一个后端，只是工作所需边查边写，那么这份文档最适合不过。
+
+JavaScript Garden Path 不是一份详细的入门文档，如果想要学习详细的JavaScript语法，推荐阅读 [JavaScript高级程序设计][1] 或 Mozilla Developer 网站的 [入门指南][2]
+
+
+
+
+[1]: https://book.douban.com/subject/10546125/
+[2]: https://developer.mozilla.org/en/JavaScript/Guide
