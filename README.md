@@ -5,8 +5,8 @@
 
 JavaScript Garden Path 不是一份详细的入门文档，如果想要学习详细的JavaScript语法，推荐阅读 [JavaScript高级程序设计][1] 或 Mozilla Developer 网站的 [入门指南][2]
 
-
-
+## 怎么测试代码
+推荐直接在Chrome控制台中写代码，粗暴直接又方便
 
 [1]: https://book.douban.com/subject/10546125/
 [2]: https://developer.mozilla.org/en/JavaScript/Guide
