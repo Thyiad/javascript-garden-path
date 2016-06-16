@@ -17,7 +17,7 @@ JavaScript Garden Path 不是一份详细的入门文档，如果想要学习详
 * 文档对象(DOM)
 * 事件(event)
 
-> 要学的东西好多, 下班后有空就来补补这份文档
+> 要学的东西也很多呀, 这份文档只能在下班后抽时间来补补了
 
-[1]: https://book.douban.com/subject/10546125/
+[1]: https://book.douban.com/subject/10546125
 [2]: https://developer.mozilla.org/en/JavaScript/Guide
