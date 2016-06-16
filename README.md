@@ -8,5 +8,16 @@ JavaScript Garden Path 不是一份详细的入门文档，如果想要学习详
 ## 怎么测试代码
 推荐直接在Chrome控制台中写代码，粗暴直接又方便
 
+## 结构一览
+* 基本概念
+* 基本类型操作
+* 数组和对象(Object & Array)
+* 作用域和闭包(scope & closure)
+* 系统对象(BOM)
+* 文档对象(DOM)
+* 事件(event)
+
+> 要学的东西好多, 下班后有空就来补补这份文档
+
 [1]: https://book.douban.com/subject/10546125/
 [2]: https://developer.mozilla.org/en/JavaScript/Guide
